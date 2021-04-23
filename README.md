@@ -17,7 +17,7 @@ c, winsock을 사용하여 콘솔 FTP 클라이언트 제작
 * C
 * WinSock
 * Visual Studio
-# FileZlia FTP Server
+* FileZlia FTP Server
 
 # 실행 화면
 * 왼쪽 FileZila로 구성한 Ftp Server
